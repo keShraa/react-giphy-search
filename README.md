@@ -1,6 +1,7 @@
-# react-boilerplate
+# React Giphy search app
 
-Simple react starter with the following config:
+Using Le Wagon's react boilerplate
+A simple react starter with the following config:
 
 - React, ReactDOM
 - Webpack 4
