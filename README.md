@@ -10,6 +10,11 @@ A simple react starter with the following config:
 - work with `.js` or `.jsx` files
 - main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
 
+## Deployment
+
+Find the online example on [Giphy search app](https://keshraa.github.io/react-giphy-search/
+ "This is my first React app")
+
 ## Scripts
 
 To start the local Webpack Dev Server (usually on port `8080`):
