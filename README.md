@@ -12,7 +12,7 @@ A simple react starter with the following config:
 
 ## Deployment
 
-Find the online example on [Giphy search app](https://keshraa.github.io/react-giphy-search/
+Check out the [Giphy search app](https://keshraa.github.io/react-giphy-search/
  "This is my first React app")
 
 ## Scripts
